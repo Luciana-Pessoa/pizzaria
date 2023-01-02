@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 28 Oct 2022 20:46:03 at https://www.cursoemvideo.com/cursowp/manual/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.cursoemvideo.com/cursowp/manual/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.cursoemvideo.com/cursowp/manual/ -O1 "C:\Users\lidia\Desktop\pizzariafresco\s" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://www.cursoemvideo.com/cursowp/manual/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:46:20	Error: 	"Forbidden" (403) at link https://www.cursoemvideo.com/cursowp/manual/xmlrpc.php?rsd (from https://www.cursoemvideo.com/cursowp/manual/)
+20:46:38	Warning: 	Moved Permanently for https://www.cursoemvideo.com/cursowp/manual/?p=856
+20:46:38	Warning: 	File has moved from https://www.cursoemvideo.com/cursowp/manual/?p=856 to https://www.cursoemvideo.com/cursowp/manual/cardapio/
+20:46:38	Warning: 	Moved Permanently for https://www.cursoemvideo.com/cursowp/manual/?p=858
+20:46:38	Warning: 	File has moved from https://www.cursoemvideo.com/cursowp/manual/?p=858 to https://www.cursoemvideo.com/cursowp/manual/quem-somos/
+20:46:38	Warning: 	Moved Permanently for https://www.cursoemvideo.com/cursowp/manual/?p=860
+20:46:38	Warning: 	File has moved from https://www.cursoemvideo.com/cursowp/manual/?p=860 to https://www.cursoemvideo.com/cursowp/manual/noticias/
+20:47:07	Warning: 	Moved Permanently for https://www.cursoemvideo.com/cursowp/manual/?p=862
+20:47:07	Warning: 	File has moved from https://www.cursoemvideo.com/cursowp/manual/?p=862 to https://www.cursoemvideo.com/cursowp/manual/contato/
+20:47:07	Warning: 	Moved Permanently for https://www.cursoemvideo.com/cursowp/manual/?p=1340
+20:47:07	Warning: 	File has moved from https://www.cursoemvideo.com/cursowp/manual/?p=1340 to https://www.cursoemvideo.com/cursowp/manual/politica-de-privacidade/
+20:47:10	Warning: 	Moved Permanently for https://www.cursoemvideo.com/cursowp/manual/?p=1083
+20:47:10	Warning: 	File has moved from https://www.cursoemvideo.com/cursowp/manual/?p=1083 to https://www.cursoemvideo.com/cursowp/manual/2019/09/receita-de-spaghetti-a-guanabara/
+20:47:10	Error: 	"Forbidden" (403) at link https://www.cursoemvideo.com/cursowp/manual/xmlrpc.php (from https://www.cursoemvideo.com/cursowp/manual/2019/09/receita-de-spaghetti-a-guanabara/)
+20:47:12	Warning: 	Moved Permanently for https://www.cursoemvideo.com/cursowp/manual/?p=1142
+20:47:12	Warning: 	File has moved from https://www.cursoemvideo.com/cursowp/manual/?p=1142 to https://www.cursoemvideo.com/cursowp/manual/2019/09/almoco-executivo/
+20:47:15	Warning: 	Moved Permanently for https://www.cursoemvideo.com/cursowp/manual/?p=1099
+20:47:15	Warning: 	File has moved from https://www.cursoemvideo.com/cursowp/manual/?p=1099 to https://www.cursoemvideo.com/cursowp/manual/2019/09/cardapio-fit/
+20:47:15	Warning: 	Moved Permanently for https://www.cursoemvideo.com/cursowp/manual/?p=1338
+20:47:15	Warning: 	File has moved from https://www.cursoemvideo.com/cursowp/manual/?p=1338 to https://www.cursoemvideo.com/cursowp/manual/atendimento-lgpd/
+20:47:16	Error: 	"Forbidden" (403) at link https://www.cursoemvideo.com/cursowp/manual/wp-json/wp/v2/users/1 (from https://www.cursoemvideo.com/cursowp/manual/author/cursoemvideo/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 13 seconds : 153 links scanned, 140 files written (17070338 bytes overall) [13226058 bytes received at 181178 bytes/sec], 4953824 bytes transferred using HTTP compression in 106 files, ratio 18%, 15.4 requests per connection
+(3 errors, 18 warnings, 0 messages)
