@@ -1,8 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.cursoemvideo.com	TRUE	/	FALSE	1999999999	LcEpOlZxXVMFy-sw	BsP%5DT4jF%405fnAwZL
-www.cursoemvideo.com	TRUE	/	FALSE	1999999999	GqNuFdRb	2.%40mDwHr
-www.cursoemvideo.com	TRUE	/	FALSE	1999999999	_mUMtgKHWqr-Xk	7zdEwaPOJsH
-www.cursoemvideo.com	TRUE	/	FALSE	1999999999	KuTrXYHJnGZxt	i%2ACDf%5D9dP7OIl
-www.cursoemvideo.com	TRUE	/	FALSE	1999999999	hRNecJoDPwvral	CwKSYM7
-
